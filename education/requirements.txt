@@ -1,7 +1,7 @@
 # Core
 numpy
 pandas
-
+openpyxl
 # Visualization
 matplotlib
 seaborn
