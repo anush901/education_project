@@ -72,8 +72,6 @@ This dataset contains school membership counts. The notebook filters the members
 
 This dataset provides school staffing information. The notebook uses the `TEACHERS` field as teacher full-time-equivalent count.
 
-> **Data access note:** The NCES source page provides information and access to the public school universe files. If a source file is too large to store directly in GitHub, include a stable download link in the repository documentation and follow the course's instructions for sharing large files. Do not commit files that exceed GitHub's file-size limits.
-
 ## Data Preparation and Analysis
 
 The analysis is implemented in [`education.ipynb`](code/education.ipynb) (adjust the link if the notebook is stored at the repository root).
@@ -91,7 +89,6 @@ The analysis is implemented in [`education.ipynb`](code/education.ipynb) (adjust
    - Compare model fit with R-squared, adjusted R-squared, AIC, MAE, RMSE, and an ANOVA comparison of nested models.
 9. **Assess predictor importance and robustness.** Fit a standardized-predictor model, inspect residuals, and fit an additional model controlling for state and charter status.
 
-The notebook uses observational data, so associations should not be interpreted as proof that a factor causes higher or lower ACT scores. ACT reporting practices can also differ by state.
 
 ## Main Research Variables
 
