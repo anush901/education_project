@@ -26,8 +26,6 @@ education/
 └── README.md
 ```
 
-The exact locations of files may differ in your local copy. The notebook currently exports `education_clean.csv` to the working directory from which the notebook is run.
-
 ## Data Sources and Description
 
 This project uses four datasets.
