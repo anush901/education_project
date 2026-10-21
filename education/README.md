@@ -155,7 +155,7 @@ The project communication document should be included in the [`reports/`](report
 
 ## Author
 
-**Anush Kallugadde(anush901)**
+**Anush Kallugadde**
 
 ## License
 
