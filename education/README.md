@@ -156,7 +156,7 @@ The project communication document should be included in the [`reports/`](report
 
 ## License
 
-This project is shared under the **MIT License**. Include a `LICENSE` file containing the standard MIT License text before distributing the repository under this license.
+
 
 ## Acknowledgements
 
