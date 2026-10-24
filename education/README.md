@@ -156,7 +156,13 @@ The project communication document should be included in the [`reports/`](report
 
 ## License
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Anush Kallugadde
+
+Please see the [LICENSE](LICENSE) file for the full license text.
 
 ## Acknowledgements
 
